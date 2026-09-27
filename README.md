@@ -204,7 +204,6 @@ The website uses a single-page architecture with responsive layouts, interactive
 
 ## 📁 Repository Structure
 
-```text
 .
 ├── index.html
 ├── README.md
@@ -215,7 +214,6 @@ The website uses a single-page architecture with responsive layouts, interactive
 │   ├── genyx-logo.png
 │   └── ibge-logo.png
 └── assets/
-```
 
 ## 📬 Contact
 
