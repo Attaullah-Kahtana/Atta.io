@@ -8,7 +8,7 @@ This repository contains the source code and assets for my personal portfolio we
 
 ## 🌐 Live Portfolio
 
-**Portfolio:** [Attaullah-Kahtana.github.io](https://attaullah-kahtana.github.io/)
+**Portfolio:** [Attaullah-Kahtana.github.io](https://attaullah-kahtana.github.io/Atta.io/)
 
 ## 👨‍💻 About Me
 
